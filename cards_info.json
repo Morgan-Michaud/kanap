@@ -1,0 +1,100 @@
+[
+    {
+        "id": "booki",
+        "title": "Booki",
+        "logo_link": "../img/projets/booki.jpg",
+        "link": "href = \"data/booki/index.html",
+        "description": "Simple page responsive pour agence de voyage.",
+        "offcanvas_content": {
+            "link_1": "data/booki/index.html",
+            "link_1_message": "Voir le site",
+            "link_2":"",
+            "link_2_message": "",
+            "text": "It is a long established sp arch for  Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        }
+    },
+    {
+        "id": "kanap",
+        "title": "Kanap",
+        "logo_link": "../img/projets/kanap.JPG",
+        "link": "../data/kanap/front/html/index.html",
+        "description": "Site commercial avec panier et sélection d'articles.",
+        "offcanvas_content": {
+            "link_1":"data/kanap/index.html",
+            "link_1_message": "Voir le site",
+            "link_2":"",
+            "link_2_message": "",
+            "text": "It is a long established sp arch for  Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        }
+    },
+    {
+        "id": "kasa",
+        "title": "Kasa",
+        "logo_link": "../img/projets/kasa.JPG",
+        "link": "https://getbootstrap.com/docs/5.3/components/card/#about",
+        "description": "Simple page responsive pour agence de voyage.",
+        "offcanvas_content": {
+            "link_1":"data/kasa/index.html",
+            "link_1_message": "Voir le site",
+            "link_2":"",
+            "link_2_message": "",
+            "text": "It is a long established sp arch for  Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        }
+    },
+    {
+        "id": "lapanthere",
+        "title": "La Panthère",
+        "logo_link": "../img/projets/lapanthere.JPG",
+        "link": "https://getbootstrap.com/docs/5.3/components/card/#about",
+        "description": "Accessibilité, Seo, Performances.",
+        "offcanvas_content": {
+            "link_1":"data/lapanthere/Starting_website_2/index.html",
+            "link_1_message": "Voir le site d'origine",
+            "link_2":"data/lapanthere/modified_website_2/index.html",
+            "link_2_message": "Voir le site modifié",
+            "text": "It is a long established sp arch for  Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        }
+    },
+    {
+        "id": "ohmyfood",
+        "title": "Oh My Food!",
+        "logo_link": "../img/projets/ohmyfood.JPG",
+        "link": "href = \"data/ohmyfood/index.html",
+        "description": "Animations CSS et navigation sur un site de restauration.",
+        "offcanvas_content": {
+            "link_1":"data/ohmyfood/index.html",
+            "link_1_message": "Voir le site",
+            "link_2":"",
+            "link_2_message": "",
+            "text": "It is a long established sp arch for  Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        }
+    },
+    {
+        "id": "Piikante",
+        "title": "piikante",
+        "logo_link": "../img/projets/piikante.JPG",
+        "link": "https://getbootstrap.com/docs/5.3/components/card/#about",
+        "description": "Site dynamique avec création de profil, système de like/dislike.",
+        "offcanvas_content": {
+            "link_1":"data/piikante/index.html",
+            "link_1_message": "Voir le site",
+            "link_2":"",
+            "link_2_message": "",
+            "text": "It is a long established sp arch for  Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        }
+    },
+    {
+        "id": "basstutor_conseil",
+        "title": "Basstutor Conseil",
+        "logo_link": "../img/projets/basstutor.png",
+        "link": "href = \"https://basstutor.great-site.net",
+        "description": "Blog WordPress sur la pratique avancée de la basse.",
+        "offcanvas_content": {
+            "link_1":"https://basstutor.great-site.net",
+            "link_1_message": "Voir le site",
+            "link_2":"",
+            "link_2_message": "",
+            "text": "It is a long established sp arch for  Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        }
+    }
+]
